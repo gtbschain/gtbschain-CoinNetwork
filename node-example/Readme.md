@@ -39,7 +39,9 @@ reseal_on_txs = "none"
     Stake
 
     To stake GTBS coin, all you should do is sending your GTBS coin to the GTBS Consensus contract address over the GTBS network from the validator address.
+    
     The GTBS Staking Vault contract address: 0x03a09FD2fF220fAA3Dca33030B2EEB9d0A287311
+    
     The easiest way to do so, is to open the [Staking Vault Read/Write Contract](https://gtbsblockchain.com/address/0x03a09FD2fF220fAA3Dca33030B2EEB9d0A287311?tab=read_write_contract "GTBS Staking Vault on explorer") tab on the GTBS explorer, connect your wallet, and call the stake() function with the amount of GTBS you want to stake.
 
     You can find your key-store (containing your private key) and the password for the created account in:
