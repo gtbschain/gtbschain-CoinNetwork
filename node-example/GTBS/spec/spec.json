@@ -56,9 +56,9 @@
     "eip3541Transition": "200",
     "eip1559BaseFeeMaxChangeDenominator": "0x8",
     "eip1559ElasticityMultiplier": "0x2",
-    "eip1559BaseFeeInitialValue": "0xE8D4A51000",
+    "eip1559BaseFeeInitialValue": "0x2D69BE7",
     "eip1559BaseFeeMinValue": "0x2D69BE7",
-    "eip1559BaseFeeMinValueTransition": "25900"
+    "eip1559BaseFeeMinValueTransition": "200"
   },
   "genesis": {
     "seal": {
@@ -222,7 +222,7 @@
         }
       }
     },
-    "0x6c2819ebd86d8d1ad48fc95c16515fc8df4b8ea0": {
+    "0x8c0f82c133dce84a6a7df8bafee72dd3b5f6d0c9": {
       "balance": "1500000000000000000000000000"
     },
     "0x7cbd4b2bc2d4f72c46d3420422c0f461f71b8c60": {
